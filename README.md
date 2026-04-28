@@ -42,6 +42,17 @@
 
 ---
 
+## 🌍 Open Source Contributions
+
+### FitMart
+ 
+| Pull Request | Contribution | Status |
+|--------------|-------------|--------|
+| [PR #184](https://github.com/parthnarkar/FitMart/pull/184) | Fixed navbar accessibility issues including keyboard navigation and ARIA attributes | ✅ Merged |
+| [PR #201](https://github.com/parthnarkar/FitMart/pull/201) | Updated `README.md` and `CONTRIBUTING.md` to match the latest codebase structure | ✅ Merged |
+
+---
+
 ## 📌 Projects
 
 ### ✅ Completed Projects
