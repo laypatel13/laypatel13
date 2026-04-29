@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lay Patel</h1>
+<div align="center">
 
-<p align="center">
-  Passionate about learning new technologies, building projects, and improving every day.
-</p>
+```
+█░░ ▄▀█ █▄█   █▀█ ▄▀█ ▀█▀ █▀▀ █░░
+█▄▄ █▀█ ░█░   █▀▀ █▀█ ░█░ ██▄ █▄▄
+```
+
+### building things. breaking things. learning everything.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28AI%2FML%29+%40+Adani+University;Python+%7C+Open+Source;Building+in+public%2C+learning+out+loud)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -32,6 +39,7 @@
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Development Tools
@@ -55,18 +63,18 @@
 
 ## 📌 Projects
 
-### ✅ Completed Projects
+### ✅ Completed Projects - I learned Python With Them.
 - 💰 Expense Tracker
 - 📚 Library Manager
 - 🐾 Animal Shelter Management
 - 📊 CSV Analyzer
+- 🎓 Grade Analyzer
 - 🎯 Aim Trainer
 
 ### 🚧 Currently Working On
 - 🧼 Data-Wash
 
 ### 📍 Future Projects
-- 🎓 Grade Analyzer
 - 📈 Sales Report Analyzer
 - 📉 Data Visualization Dashboard
 - 🌦️ Weather Feather
@@ -81,19 +89,14 @@
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/laypatel13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laypatel13/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/laypatel13)
 
-  <a href="https://www.linkedin.com/in/laypatel13/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+`open to collaborations · Python · building in public`
 
----
+</div>
 
 <p align="center">
   ⭐ Learning, Building, and Growing Every Day ⭐
