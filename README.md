@@ -7,7 +7,7 @@
 
 ### building things. breaking things. learning everything.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28AI%2FML%29+%40+Adani+University;Python+%7C+Open+Source;Building+in+public%2C+learning+out+loud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28AI%2FML%29+%40+Adani+University;Trying+to+be+Fullstack+Developer;Open+Source+Contributer;Building+in+public%2C+learning+out+loud)](https://git.io/typing-svg)
 
 </div>
 
