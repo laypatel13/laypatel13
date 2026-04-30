@@ -69,14 +69,14 @@
 - 🐾 Animal Shelter Management
 - 📊 CSV Analyzer
 - 🎓 Grade Analyzer
+- 📈 Sales Report Analyzer
+- 📉 Data Visualization Dashboard
 - 🎯 Aim Trainer
 
 ### 🚧 Currently Working On
 - 🧼 Data-Wash
 
 ### 📍 Future Projects
-- 📈 Sales Report Analyzer
-- 📉 Data Visualization Dashboard
 - 🌦️ Weather Feather
 
 ---
