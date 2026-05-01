@@ -78,6 +78,7 @@
 
 ### 📍 Future Projects
 - 🌦️ Weather Feather
+- 🔍 FakeNews Ditector
 
 ---
 
