@@ -5,7 +5,7 @@
 █▄▄ █▀█ ░█    █▀▀ █▀█ ░█  ██▄ █▄▄
 ```
 
-### *B.Tech CSE (AI/ML) @ Adani University · ML Intern @ FlyRank AI · Google Student Ambassador (Gemini Campus)*
+### *B.Tech CSE(AI/ML) @ Adani University · ML Intern @ FlyRank AI · Google Student Ambassador @Gemini*
 
 ### *I build things to learn, and somewhere along the way they become real.* 
 
