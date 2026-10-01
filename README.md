@@ -12,12 +12,3 @@ i make things sometimes they work...!
 
 </div>
 
-<hr>
-
-<div align="center">
-  <blockquote>
-    <i>Until the death God quotes ~</i>
-    <br><br>
-    <b><i>What is a high tier Human, To a low tier God</i></b>
-  </blockquote>
-</div>
