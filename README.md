@@ -14,4 +14,3 @@ i make things sometimes they work...!
 
 <hr>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=laypatel13&label=%F0%9F%91%80&color=000000&style=for-the-badge" /></div>
