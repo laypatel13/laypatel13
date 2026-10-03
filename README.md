@@ -1,14 +1,14 @@
 <div align="center">
 
-# laypatel
+# laypatel13
 
-i make things sometimes they work...!
+<h4>i make things sometimes they work...!</h4>
 
-<img src="assets/python.gif" width="90" /> &nbsp; <img src="assets/js.gif" width="90" /> &nbsp; <img src="assets/c.gif" width="90" /> &nbsp; <img src="assets/vscode.gif" width="90" />
+<img src="https://skillicons.dev/icons?i=python,js,c,vscode" />
 
-<sub>i am learning and doing open source contributions : )</sub>
+<h4><sub>i am learning and doing open source contributions : )</sub></h4>
 
-<img src="assets/django.gif" width="90" /> &nbsp; <img src="assets/fastapi.gif" width="90" /> &nbsp; <img src="assets/react.gif" width="90" /> &nbsp; <img src="assets/postgresql.gif" width="90" /> &nbsp; <img src="assets/typescript.gif" width="90" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,react,postgres,ts" />
 
 </div>
 
