@@ -1,16 +1,4 @@
-<div align="center">
-
-# laypatel13
-
-<h4>i make things sometimes they work...!</h4>
-
-<img src="https://skillicons.dev/icons?i=python,js,c,vscode" />
-
-<h4><sub>i am learning and doing open source contributions : )</sub></h4>
-
-<img src="https://skillicons.dev/icons?i=django,fastapi,react,postgres,ts" />
-
-</div>
-
-<hr>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="$ whoami — laypatel13 · i make things, sometimes they work. languages: python, javascript, typescript, c. stack: django, fastapi, react, postgres. currently learning + contributing to open source.">
+</picture>
