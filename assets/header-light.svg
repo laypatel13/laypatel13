@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="236" viewBox="0 0 770 236">
+  <style>
+    text { font-family: "Latin Modern Math", "Cambria Math", Georgia, "Times New Roman", serif; fill: #1f2328; }
+    .it { font-style: italic; }
+    .mu { fill: #6e665c; }
+    .ac { fill: #a8722f; }
+    .f { animation: in .6s ease-out backwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(4px); } }
+  </style>
+  <g class="f">
+    <text x="24" y="88" font-size="34"><tspan class="it">laypatel13</tspan><tspan dx="14">=</tspan></text>
+    <text x="232" y="98" font-size="64" class="ac">Σ</text>
+    <text x="240" y="40" font-size="15" class="mu it">∞</text>
+    <text x="226" y="124" font-size="14" class="mu it">i ∈ ideas</text>
+    <text x="292" y="88" font-size="34">(<tspan class="it">things that sometimes work</tspan>)</text>
+  </g>
+  <g class="f" style="animation-delay:.5s" font-size="17">
+    <text x="24" y="168"><tspan class="mu it">where</tspan>   languages = { python, javascript, typescript, c }</text>
+    <text x="24" y="196"><tspan class="mu it" visibility="hidden">where</tspan>   stack = { django, fastapi, react, postgres }</text>
+    <text x="24" y="224"><tspan class="mu it">and</tspan>   <tspan class="mu">currently learning + contributing to open source</tspan></text>
+  </g>
+</svg>
