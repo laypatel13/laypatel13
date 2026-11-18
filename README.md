@@ -1,4 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="laypatel13 = Σ (things that sometimes work), where languages = { python, javascript, typescript, c } and stack = { django, fastapi, react, postgres }; currently learning + contributing to open source.">
-</picture>
+i'm lay. i make things and sometimes they work
+
+i know python, javascript, typescript and c. i build stuff with django, fastapi, react and postgres. i own one (1) laptop 😭
+
+i won top contributor at cognee x wemakedevs mergetober 😁
+
+that's it. that's the readme
+
+whatever 🫪🥔
