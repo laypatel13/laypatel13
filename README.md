@@ -1,9 +1,7 @@
-i'm lay. i make things and sometimes they work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-header-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="github-header-light.webp">
+  <img src="github-header-dark.webp" width="100%" alt="a line of random key presses scrolls past. under it, 'i make things and sometimes they work.' stays grey, except the few letters chance has actually typed, in green.">
+</picture>
 
-i know python, javascript, typescript and c. i build stuff with django, fastapi, react and postgres. i own one (1) laptop 😭
-
-i won top contributor at cognee x wemakedevs mergetober 😁
-
-that's it. that's the readme
-
-whatever 🫪🥔
+<p align="center"><sub>monkey will take 10<sup>88</sup> more keystrokes to type it. <strong>maybe!</strong></sub></p>
